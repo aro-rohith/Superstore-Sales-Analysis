@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard_Screenshot.png)
+<img src="Dashboard_Screenshot.png" width="900">
 
 ## Project Overview
 

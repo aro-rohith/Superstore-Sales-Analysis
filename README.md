@@ -1,5 +1,9 @@
 # Superstore Sales Analysis
 
+## Dashboard Preview
+
+![Dashboard](Dashboard_Screenshot.png)
+
 ## Project Overview
 
 This project analyzes Superstore sales data to understand sales performance, profit trends, customer behavior, product performance, and regional performance.
